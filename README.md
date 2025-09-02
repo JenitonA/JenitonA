@@ -12,5 +12,6 @@
   <img src="https://media.tenor.com/R_M90toyOCkAAAAj/hehe-haha-clash-royale.gif" alt="Clash Royale Laugh" width="150"/>
 </p>
 
+[![Top Langs](github-readme-stats-sigma-flame-97.vercel.app/api/top-langs/?username=JenitonA&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
