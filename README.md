@@ -3,7 +3,7 @@
 </p>
 <br><br>
 <p>
-  <img align="right" src="https://media.tenor.com/R_M90toyOCkAAAAj/hehe-haha-clash-royale.gif" alt="Clash Royale Laugh" width="150"/>
+  <img align="right" hspace="180" src="https://media.tenor.com/R_M90toyOCkAAAAj/hehe-haha-clash-royale.gif" alt="Clash Royale Laugh" width="150"/>
 </p>
 
 - 📚 Studying Nanotechnology Engineering at the University of Waterloo
