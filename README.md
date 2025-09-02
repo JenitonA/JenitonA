@@ -14,7 +14,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats-sigma-flame-97.vercel.app/api/top-langs/?username=JenitonA&layout=donut-vertical&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-flame-97.vercel.app/api/top-langs/?username=JenitonA&layout=donut-vertical&theme=holi)](https://github.com/JenitonA/github-readme-stats)
 
 
 
