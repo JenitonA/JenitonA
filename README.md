@@ -10,7 +10,7 @@
 - ✨ Part of the FormulaNano Instrumentation Team 
 - ⚡ Passionate about semiconductor fabrication and thin film technology
 - 🎮 PEKKA bridge spam god at Clash Royale
-- 🫡 Vibe coder
+- 😜 Vibe coder
 
 <br><br>
 
